@@ -2,21 +2,22 @@
 
 # This is the repository for the code base and associated documentation of an undergraduate software engineering project.
 
-**ORGANIZATION**    : Augusta University
+**ORGANIZATION**       : Augusta University
 
-**INSTRUCTOR**      : Dr. Onyeka Ezenwoye
+**INSTRUCTOR**         : Dr. Onyeka Ezenwoye
 
-**COURSE**          : CSCI 4711: Software Engineering
+**COURSE**             : CSCI 4711: Software Engineering
 
-**ENGINEERING TEAM**: Matthew Tennis
+**ENGINEERING TEAM**   : 
+ 
+  Matthew Tennis       : [@tattymennis] (https://www.github.com/tattymennis)
+  
+  Christopher Gonsalves:
+ 
+  Connor Williams      :
 
-                      Christopher Gonsalves
-                      
-                      Connor Williams
-                    
-                      Ryan Mahoney
-                      
-                      
+  Ryan Mahoney         :
+
 
 
 
