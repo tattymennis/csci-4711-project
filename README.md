@@ -16,7 +16,7 @@
  
   Connor Williams      :
 
-  Ryan Mahoney         : [@rjmahoney530] rmahoney@augusta.edu
+  Ryan Mahoney         : [@rjmahoney530] (https://github.com/rjmahoney530) // rmahoney@augusta.edu
 
 
 
